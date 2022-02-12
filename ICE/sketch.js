@@ -14,7 +14,7 @@ function preload() {
   spawn2 = loadImage("Images/4.png");
   coin = loadImage("Images/2.png");
   bgMusic = loadSound("song/bg.mp3");
-  r = loadImage("Images/restart.png")
+  r = loadImage("Images/RESTART.jpg")
   horn = loadSound("song/pp.mp3")
 }
 
